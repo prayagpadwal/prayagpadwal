@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Prayag Padwal
 - 👀 I’m interested in Data Science  
 - 🌱 I’m currently learning Data visualization using various libraries.
-- 📫 How to reach me #LinkedIn - @prayagpadwal
-                      #Email- prayagpadwal62@gmail.com
+- 📫 How to reach me on LinkedIn - @prayagpadwal , Email- prayagpadwal62@gmail.com
                       
 
 <!---
