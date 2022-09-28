@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prayag Padwal
-- 👀 I’m interested in Data Science  
+- 👀 I’m interested in Data Science & Data Analysis   
 - 🌱 I’m currently learning Data visualization using various libraries.
 - 📫 How to reach me on LinkedIn - @prayagpadwal , Email- prayagpadwal62@gmail.com
                       
