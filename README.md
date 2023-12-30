@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prayag Padwal</h1>
 <h3 align="center">A passionate data enthusiast from California</h3>
 
-- 🔭 I’m currently working on Implementation of a Scalable Spark-based ETL Pipeline for Querying and Aggregating Multidimensional Data from an Oracle RDBMS via Databricks Computing Environment **Spark-Oracle Databricks Pipeline**
+- 🔭 I'm currently developing a high-performance ETL pipeline using Spark on Databricks. This project involves extracting multidimensional data from Oracle databases and efficiently processing and aggregating it for advanced querying**
 
 - 🌱 I’m currently learning **Airflow, AWS, Alteryx, Statistics**
 
