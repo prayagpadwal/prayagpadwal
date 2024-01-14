@@ -12,9 +12,8 @@
 - 👨‍💻 LinkedIn profile- https://www.linkedin.com/in/prayagpadwal/
 - 👨‍💻 Tableau profile- https://public.tableau.com/app/profile/prayag.padwal/vizzes
 - 👨‍💻 Medium articles- https://medium.com/@padwalprayag
-- 💬 Ask me about **Data**
 
-- 📫 How to reach me **padwalprayag@gmail.com**
+- 📫 How to reach me **padwalprayag@gmail.com** or **prayagpravin.padwal01@student.csulb.edu**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayagpadwal&" alt="prayagpadwal" /></p>
 
