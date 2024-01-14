@@ -3,10 +3,15 @@
 
 - 🔭 I'm currently developing a high-performance ETL pipeline using Spark on Databricks. This project involves extracting multidimensional data from Oracle databases and efficiently processing and aggregating it for advanced querying**
 
-- 🌱 I’m currently learning **Airflow, AWS, Alteryx, Statistics**
+- 🌱 I am proficient in
+-      SQL databases - PostgreSQL, MySQL, OracleSQL, Microsoft SQL Server
+-      Python libraries - Pandas, Numpy, Scikit-learn, Matplotlib, Plotly, Seaborn
+-      Advance Excel - VLOOKUP, Pivot tables, etc.
+-      Tableau and Power BI 
 
-- 👨‍💻 My Tableau profile link [https://public.tableau.com/app/profile/prayag.padwal/vizzes?authMode=activationSuccess](https://public.tableau.com/app/profile/prayag.padwal/vizzes?authMode=activationSuccess)
-
+- 👨‍💻 LinkedIn profile- https://www.linkedin.com/in/prayagpadwal/
+- 👨‍💻 Tableau profile- https://public.tableau.com/app/profile/prayag.padwal/vizzes
+- 👨‍💻 Medium articles- https://medium.com/@padwalprayag
 - 💬 Ask me about **Data**
 
 - 📫 How to reach me **padwalprayag@gmail.com**
