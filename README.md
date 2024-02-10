@@ -9,7 +9,7 @@
 -      Advance Excel - VLOOKUP, Pivot tables, etc.
 -      Tableau and Power BI 
 
-- 👨‍💻 Resume- https://drive.google.com/file/d/11WBS9HiLxQACU5OLHOSvPMEgzU0uaDuv/view?usp=sharing
+- 👨‍💻 Resume- https://drive.google.com/file/d/1ernkoY8OMvWom57LOfH4116jmqhJWFsh/view?usp=sharing
 - 👨‍💻 LinkedIn profile- https://www.linkedin.com/in/prayagpadwal/
 - 👨‍💻 Tableau profile- https://public.tableau.com/app/profile/prayag.padwal/vizzes
 - 👨‍💻 Medium articles- https://medium.com/@padwalprayag
