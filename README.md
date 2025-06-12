@@ -12,7 +12,7 @@
 - 👨‍💻 Tableau profile- https://public.tableau.com/app/profile/prayag.padwal/vizzes
 - 👨‍💻 Medium articles- https://medium.com/@padwalprayag
 
-- 📫 How to reach me **padwalprayag@gmail.com** or **prayagpravin.padwal01@student.csulb.edu**
+- 📫 How to reach me **padwalprayag@gmail.com**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayagpadwal&" alt="prayagpadwal" /></p>
 
