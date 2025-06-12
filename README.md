@@ -8,8 +8,6 @@
 -      Python libraries - Pandas, Numpy, Scikit-learn, Matplotlib, Plotly, Seaborn
 -      Advance Excel - VLOOKUP, Pivot tables, etc.
 -      Tableau and Power BI 
-- 👨‍💻 My Portfolio- https://prayagpadwal.github.io/
-- 👨‍💻 Resume- 
 - 👨‍💻 LinkedIn profile- https://www.linkedin.com/in/prayagpadwal/
 - 👨‍💻 Tableau profile- https://public.tableau.com/app/profile/prayag.padwal/vizzes
 - 👨‍💻 Medium articles- https://medium.com/@padwalprayag
