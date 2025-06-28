@@ -11,24 +11,35 @@
 ---
 
 ### 💡 What I'm Working On
-- **High-performance ETL @ PG&E** – Modeling 1 M+ rows/day into a Redshift star‑schema and serving insights in QuickSight.
+- **High‑performance ETL @ PG&E** – Modeling 1 M+ rows/day into a Redshift star‑schema and serving insights in QuickSight.
 - **API‑driven News Summarizer** – Ingests 100+ articles/day, stores raw JSON in S3, curates in Snowflake, and auto‑generates <150‑word digests with OpenAI.
-- **Crypto Analytics** – Building a Snowflake‑modelled asset tracker and interactive Superset dashboards across 100 K+ rows.
+- **Crypto Analytics** – End‑to‑end pipeline (AWS ▸ Python ▸ PostgreSQL ▸ dbt ▸ Snowflake ▸ Superset) tracking 100 K+ rows of on‑chain data.
+- **Automation R&D** – Building cross‑platform desktop tools with **PyInstaller** and low‑code ETL orchestration using **n8n**.
 
 ### 🧰 Tech Toolbox
 | | |
 | --- | --- |
-| **Languages** | Python · SQL |
-| **Frameworks / Tools** | Spark / PySpark · Airflow · dbt · Docker |
+| **Languages** | Python · SQL · Bash |
+| **Frameworks / Orchestration** | Spark / PySpark · Airflow · dbt · Docker · **n8n** · GitHub Actions |
 | **Cloud & Warehouses** | AWS (S3, Lambda, Glue, Redshift, EC2) · Snowflake · Databricks |
-| **Databases** | PostgreSQL · Oracle · SQL Server · MySQL |
-| **BI & Viz** | Tableau · Power BI · QuickSight |
-| **Extras** | Pandas · NumPy · scikit‑learn · Matplotlib · Plotly · GitHub Actions |
+| **Databases** | PostgreSQL · Oracle · SQL Server · MySQL |
+| **BI & Apps** | Tableau · Power BI · QuickSight · Apache Superset · Streamlit |
+| **AI & NLP** | OpenAI API · LangChain · Transformers · FAISS · Textract |
+| **Extras** | Pandas · NumPy · scikit‑learn · Matplotlib · Plotly · PyInstaller |
+
+### ⚙️ Techniques I Practice
+- **Dimensional data modeling** (Star/Snowflake schemas, fact & dimension tables)
+- **ETL/ELT & data quality** with dbt tests, Airflow scheduling, n8n automations
+- **CI/CD pipelines** using GitHub Actions & Docker‑based deployments
+- **Containerization & Infrastructure‑as‑Code** for reproducible environments
+- **API integration & web scraping** (REST, GraphQL, XML, CSV flat‑files)
+- **NLP & LLM applications** with LangChain + OpenAI for text summarization/chatbots
+- **Interactive storytelling** in Tableau, Superset, and Streamlit
 
 ### ✨ Achievements
-- ⏱️ **−75 % ETL Window** & **−40 % Dashboard Latency** at PG&E.
+- ⏱️ **−75 % ETL window** & **−40 % dashboard latency** at PG&E.
 - 💰 Uncovered **$2 M revenue leakage** via new KPI suite.
-- 🏆 **2× Datathon Champion** & Co‑founder of **an NPO**.
+- 🏆 **2× Datathon Champion** & Co‑founder of **an NPO advancing data literacy**.
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayagpadwal/)
