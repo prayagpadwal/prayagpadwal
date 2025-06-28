@@ -28,7 +28,7 @@
 ### ✨ Achievements
 - ⏱️ **−75 % ETL Window** & **−40 % Dashboard Latency** at PG&amp;E.
 - 💰 Discovered **$2 M revenue leakage** via new KPI suite.
-- 🏆 **2× Datathon Champion** & Co‑founder of a data‑literacy NPO.
+- 🏆 **2× Datathon Champion** & Co‑founder of an NPO.
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayagpadwal/)
